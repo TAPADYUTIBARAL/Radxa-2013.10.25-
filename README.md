@@ -8,3 +8,5 @@ https://dl.radxa.com/rock/docs/hw/RADXA_ROCK_schematic_20131025.pdf  -- Board dr
 
 https://wiki.radxa.com/Rock  -- Website
 
+http://rockchip.wikidot.com/rk3188  -- rk3188 datasheet
+
