@@ -1,5 +1,8 @@
 # Radxa-2013.10.25-
-/n https://wiki.radxa.com/Rock/hardware_revision
-/n https://dl.radxa.com/rock/docs/hw/RADXA_ROCK_schematic_20131025.pdf
-\n https://wiki.radxa.com/Rock
+Diagnostic of Roxy pi board design & firmware installation parts.
+Here i included all its supporting files, links
+
+https://wiki.radxa.com/Rock/hardware_revision
+ https://dl.radxa.com/rock/docs/hw/RADXA_ROCK_schematic_20131025.pdf
+ https://wiki.radxa.com/Rock
 
